@@ -35,7 +35,7 @@
 ![ReduxJS](https://img.shields.io/badge/-ReduxJS-000?&logo=Redux)
 ![SequelizeJS](https://img.shields.io/badge/-SequelizeJS-000?&logo=Sequelize)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
-![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Express)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn)
 ![Json](https://img.shields.io/badge/-JSON-000?&logo=json)
 ![visualstudiocode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
 ![github](https://img.shields.io/badge/-Github-000?&logo=github)
