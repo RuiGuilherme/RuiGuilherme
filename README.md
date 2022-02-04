@@ -7,8 +7,6 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Linkedin"> [Linkedin@RuiGuilherme](https://www.linkedin.com/in/rui-guilherme/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="20" height="20" alt="Gitlab"> [Gitlab@RuiGuilherme](https://gitlab.com/RuiGuilherme/)
 
-### Whats I Like?
-
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -22,11 +20,9 @@
 ![NodeJS](https://img.shields.io/badge/-Node-000?&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
-![Bash](https://img.shields.io/badge/-Bash/ZSH-000?&logo=gnubash)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Electron](https://img.shields.io/badge/-ElectronJS-000?&logo=Electron)
 ![Express](https://img.shields.io/badge/-ExpressJS-000?&logo=Express)
-![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=materialdesign)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
@@ -37,18 +33,28 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn)
 ![Json](https://img.shields.io/badge/-JSON-000?&logo=json)
-![visualstudiocode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
-![github](https://img.shields.io/badge/-Github-000?&logo=github)
-![Wikipedia](https://img.shields.io/badge/-Wikipedia-000?&logo=wikipedia)
-![stackoverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)
-![jest](https://img.shields.io/badge/Jest-000?&logo=jest)
-![archlinux](https://img.shields.io/badge/ArchLinux-000?&logo=archlinux)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+![Redis](https://img.shields.io/badge/Redis-000?&logo=redis)
+
+
+#### Whats I Like?
+![firefoxbrowser](https://img.shields.io/badge/Firefox-000?&logo=firefoxbrowser)
 ![gnu](https://img.shields.io/badge/GNU-000?&logo=gnu)
 ![Linux](https://img.shields.io/badge/Linux-000?&logo=linux)
-![firefoxbrowser](https://img.shields.io/badge/Firefox-000?&logo=firefoxbrowser)
-
-
-
-
+![archlinux](https://img.shields.io/badge/ArchLinux-000?&logo=archlinux)
+![Wikipedia](https://img.shields.io/badge/-Wikipedia-000?&logo=wikipedia)
+![visualstudiocode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
+![github](https://img.shields.io/badge/-Github-000?&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
+![stackoverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)
+![Bash](https://img.shields.io/badge/-Bash/ZSH-000?&logo=gnubash)
+![Steam](https://img.shields.io/badge/-Steam-000?&logo=Steam)
+![Gimp](https://img.shields.io/badge/-Gimp-000?&logo=Gimp)
+![Reddit](https://img.shields.io/badge/-Reddit-000?&logo=reddit)
+![Duckduckgo](https://img.shields.io/badge/-Duckduckgo-000?&logo=duckduckgo)
+![anilist](https://img.shields.io/badge/-Anilist-000?&logo=anilist)
+![buymeacoffee](https://img.shields.io/badge/-Coffee-000?&logo=buymeacoffee)
+![freelancer](https://img.shields.io/badge/-JustFree-000?&logo=freelancer)
+![tampermonkey](https://img.shields.io/badge/-TamperMonkey-000?&logo=tampermonkey)
 
 
