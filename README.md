@@ -12,7 +12,8 @@
 <details>
   <summary>Github + Gitlab Activity</summary>
   
-  ![Top Langs](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=ruiguilherme&labels=true)
+  ![CodeRankrs Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=ruiguilherme&labels=true)
+  
 </details>
 
 
