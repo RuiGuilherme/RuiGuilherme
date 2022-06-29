@@ -8,15 +8,6 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="20" height="20" alt="Gitlab"> [Gitlab@RuiGuilherme](https://gitlab.com/RuiGuilherme/)
 
-
-<details>
-  <summary>Github + Gitlab Activity</summary>
-  
-  ![CodeRankrs Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=ruiguilherme&labels=true)
-  
-</details>
-
-
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -67,9 +58,3 @@
 ![buymeacoffee](https://img.shields.io/badge/-Coffee-000?&logo=buymeacoffee)
 ![freelancer](https://img.shields.io/badge/-JustFree-000?&logo=freelancer)
 ![tampermonkey](https://img.shields.io/badge/-TamperMonkey-000?&logo=tampermonkey)
-
-<details>
-  <summary>Others Infos (CodersRank)</summary>
-  
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ruiguilherme&show-other-skills=true&width=798" />
-</details>
