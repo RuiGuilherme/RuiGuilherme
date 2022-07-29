@@ -58,3 +58,6 @@
 ![buymeacoffee](https://img.shields.io/badge/-Coffee-000?&logo=buymeacoffee)
 ![freelancer](https://img.shields.io/badge/-JustFree-000?&logo=freelancer)
 ![tampermonkey](https://img.shields.io/badge/-TamperMonkey-000?&logo=tampermonkey)
+
+#### Steam
+![-Nullz](https://steam-stat.vercel.app/api?profileName=-Nullz)
