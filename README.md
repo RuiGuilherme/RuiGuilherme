@@ -9,7 +9,7 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="20" height="20" alt="Gitlab"> [Gitlab@RuiGuilherme](https://gitlab.com/RuiGuilherme/)
 
 #### Languages
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=CoffeeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -37,6 +37,11 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![Redis](https://img.shields.io/badge/Redis-000?&logo=redis)
 ![hibernate](https://img.shields.io/badge/Hibernate-000?&logo=hibernate)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![styled-components](https://img.shields.io/badge/styled%20components-000?&logo=styled-components)
+![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=eslint)
 
 
 #### Whats I Like?
