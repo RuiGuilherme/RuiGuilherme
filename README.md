@@ -8,6 +8,8 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="20" height="20" alt="Gitlab"> [Gitlab@RuiGuilherme](https://gitlab.com/RuiGuilherme/)
 
+![Profile View](https://komarev.com/ghpvc/?username=RuiGuilherme&color=58a6ff)
+
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=CoffeeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
