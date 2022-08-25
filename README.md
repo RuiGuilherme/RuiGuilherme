@@ -1,9 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats-5bx35m12c-ruiguilherme.vercel.app/api?username=ruiguilherme&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-5bx35m12c-ruiguilherme.vercel.app/api/top-langs/?username=ruiguilherme&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [Sifcon Sistemas](https://www.linkedin.com/company/sifconsistemas/mycompany/)
-- 🌱 I’m currently learning JAVA SPA and JSF
-- ✅ My main Stack is JavaScript (Node and React)
+- 🔭 I’m currently working on [CWI Software](https://www.linkedin.com/company/cwi-software/)
+- 🌱 I'm currently enhanced my skills on NodeJS
+- ✅ My main Stack is JavaScript (Node, React, Next, Redux...)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Linkedin"> [Linkedin@RuiGuilherme](https://www.linkedin.com/in/rui-guilherme/)
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="20" height="20" alt="Gitlab"> [Gitlab@RuiGuilherme](https://gitlab.com/RuiGuilherme/)
@@ -14,10 +14,11 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=CoffeeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mariadb)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
+![NO-SQL](https://img.shields.io/badge/-NO%20SQL-000?&logo=MongoDB)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
 #### Technologies & Frameworks & Runtimes & Softwares
 ![NodeJS](https://img.shields.io/badge/-Node-000?&logo=nodedotjs)
