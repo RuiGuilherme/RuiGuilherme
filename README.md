@@ -3,8 +3,8 @@
 ###### Remember that most companies use their own and private (selfhost) instances of git (BitBucket or Gitlab for example). So this information is incomplete and represents a small amount of MR, PR and Commits that were done on Github or are mirrored on Github.
 
 - 🔭 I’m currently working on [CWI Software](https://www.linkedin.com/company/cwi-software/)
-- 🌱 I'm currently enhanced my skills on NodeJS
-- ✅ My main Stack is JavaScript (Node, React, Next, Redux...)
+- 🌱 I'm currently enhanced my skills on Java
+- ✅ My main Stack is JavaScript (Node, React, Next...) and Java (Camel, Sboot, hibernate...)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Linkedin"> [Linkedin@RuiGuilherme](https://www.linkedin.com/in/rui-guilherme/)
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="20" height="20" alt="Gitlab"> [Gitlab@RuiGuilherme](https://gitlab.com/RuiGuilherme/)
